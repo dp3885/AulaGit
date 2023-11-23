@@ -1,0 +1,47 @@
+[33mcommit ba14d85d34cb3de6a1bfcac86041dafb3b6a06a5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daniel Pereira <1221476@isep.ipp.pt>
+Date:   Thu Nov 23 19:51:00 2023 +0000
+
+    vendas final
+
+[33mcommit 87ba401f6fc928f33bdae45857c8b7e56a82939f[m
+Author: Daniel Pereira <1221476@isep.ipp.pt>
+Date:   Thu Nov 23 19:06:09 2023 +0000
+
+    Modificado Vendas e Apagodo Blog
+
+[33mcommit 66a1dc5c49446a753e5a123320438dbd6cf88048[m
+Author: Daniel Pereira <1221476@isep.ipp.pt>
+Date:   Thu Nov 23 18:56:43 2023 +0000
+
+    Apagado blog e update index
+
+[33mcommit 6f516f6e48ea45b2de12bc16d5f6f62f610b2114[m
+Author: Daniel Pereira <1221476@isep.ipp.pt>
+Date:   Thu Nov 23 18:56:01 2023 +0000
+
+    add arquivo About us
+
+[33mcommit c6f4f32bc2087e24012b7f4567e0110c5acf40d6[m
+Author: Daniel Pereira <1221476@isep.ipp.pt>
+Date:   Thu Nov 23 18:41:37 2023 +0000
+
+    update blog
+
+[33mcommit 36ab0bac3e30fc5e6df578e06c838032bddf33ed[m
+Author: Daniel Pereira <1221476@isep.ipp.pt>
+Date:   Thu Nov 23 18:40:09 2023 +0000
+
+    Criada página de blog
+
+[33mcommit d3879d54a94021a31219424039ce20815dc2534e[m
+Author: DP <1221476@isep.ipp.pt>
+Date:   Thu Nov 23 17:44:55 2023 +0000
+
+    Acrescentado valores das vendas
+
+[33mcommit 1bd93d907e9f562e397aa351951685da8b857c67[m
+Author: Daniel Pereira <1221476@isep.ipp.pt>
+Date:   Wed Nov 22 23:19:01 2023 +0000
+
+    Criadas página de index e vendas
